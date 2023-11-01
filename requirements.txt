@@ -1,0 +1,1 @@
+﻿django-cricket-statistics 0.0.1
